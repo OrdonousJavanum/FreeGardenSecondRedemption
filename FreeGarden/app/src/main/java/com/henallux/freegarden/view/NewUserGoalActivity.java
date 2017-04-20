@@ -1,9 +1,11 @@
-package com.henallux.freegarden;
+package com.henallux.freegarden.view;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+
+import com.henallux.freegarden.R;
 
 public class NewUserGoalActivity extends AppCompatActivity {
 
